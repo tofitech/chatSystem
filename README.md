@@ -1,2 +1,2 @@
 # chatSystem
-Simple chat system
+Simple chat system 1.0
